@@ -1,0 +1,50 @@
+{
+    "details": {
+        "header": {
+            "name": "Abc",
+            "city": "Bangalore",
+            "state": "UP",
+            "mobile": "+91 9234567890",
+            "email": "abc@gmail.com",
+            "website": "google.com",
+            "language": "Hindi,English",
+            "photo": "xyz.jpg",
+            "print": [
+                "<button onclick='window.print()'>Print this page</button>"
+            ]
+        },
+        "body": {
+            "Experience": [{
+                "title": "",
+                "subtitle": "",
+                "description": ""
+            }],
+            "Academic Details": [{
+                    "title": "Graduation [2023]",
+                    "subtitle": "B.Tech CSE",
+                    "description": "From ITER, SOA University"
+                },
+                {
+                    "title": "Intermediate [2019]",
+                    "subtitle": "PCM",
+                    "description": "From XYZ School"
+                }
+            ],
+            "Skills": [{
+                "title": "",
+                "subtitle": "",
+                "description": ""
+            }],
+            "Extracurricular Activites": [{
+                "title": "",
+                "subtitle": "",
+                "description": ""
+            }],
+            "Hobbies": [{
+                "title": "Learning New Technology",
+                "subtitle": "",
+                "description": "Learn and Grow"
+            }]
+        }
+    }
+}
