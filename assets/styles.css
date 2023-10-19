@@ -91,3 +91,36 @@ footer {
         page-break-before: always;
     }
 }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section-header {
+    font-weight: bold;
+}
+
+.section-content {
+    margin-left: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
